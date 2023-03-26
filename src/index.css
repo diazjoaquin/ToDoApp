@@ -5,9 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(rgba(0,0,0,.5), rgba(0, 0, 0, .5)), url("C:\Users\diazj\Downloads\9e5cd0d2c0ed6b600297ca26bcaace07.png");
+  background: linear-gradient(rgba(0,0,0,.7), rgba(0, 0, 0, .7)), url("C:/Users/diazj/Desktop/ToDoApp/public/background.jpg");
   background-size: cover;
-
 }
 
 code {
